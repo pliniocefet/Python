@@ -1,6 +1,8 @@
 # encoding: utf-8
 from tkinter import *
 
+"""Programa para Arduino piscar leds"""
+
 # Variaveis globais podem ser usadas em qualquer parte do modulo
 global blue 
 blue = False
